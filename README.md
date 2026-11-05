@@ -12,8 +12,9 @@ Next.js, React, TypeScript, Tailwind, Supabase and Postgres, Sanity, Vercel, n8n
 |---|---|
 | [evisitor-client](https://github.com/tinmartinic/evisitor-client) | Typed Node.js client for the Croatian eVisitor guest registration API. |
 | [hub3-barcode](https://github.com/tinmartinic/hub3-barcode) | Validated HUB3 payment barcode ("slikaj i plati") for Croatian banks, SVG or PNG, no native modules. |
+| [stripe-parra](https://github.com/Neviox-Digital-Agency/stripe-parra) | Fiscalized Croatian invoices for Stripe subscription payments, issued through Parra. |
 
-Both come from code running in production in [Rentijer](https://rentijer.com), a property management app for Croatian private accommodation.
+evisitor-client and hub3-barcode come from code running in production in [Rentijer](https://rentijer.com), a property management app for Croatian private accommodation. stripe-parra was built for Rentijer's card billing and is tested on the Stripe and Parra sandboxes.
 
 ## About the other repositories
 
